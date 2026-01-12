@@ -12,8 +12,9 @@ Check out the latest stable build here: [https://tchetta.github.io/Basic-Vanilla
 To get this project running locally:
 
 1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+```bash
+git clone https://github.com/Tchetta/Basic-Vanilla.git
+```
 
 2. **Install dependencies:**
 ```bash
