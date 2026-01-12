@@ -1,5 +1,5 @@
 # 🎨 Basic Vanilla SCSS Starter
-[![SCSS Check](https://github.com/USERNAME/REPO/actions/workflows/lint-scss.yml/badge.svg)](https://github.com/USERNAME/REPO/actions)
+[![SCSS Check](https://github.com/Tchetta/Basic-Vanilla/actions/workflows/lint-scss.yml/badge.svg)](https://github.com/Tchetta/Basic-Vanilla/actions/workflows/lint-scss.yml)
 
 A professional boilerplate for vanilla web projects using the **7-1 SCSS Pattern** and **BEM methodology**.
 
