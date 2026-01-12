@@ -1,0 +1,25 @@
+{
+  "name": "vanilla-css",
+  "version": "1.0.0",
+  "description": "This is the initial structure of a vanilla CSS project using the 7-1 pattern with the BEM mothodology",
+  "keywords": [
+    "vanilla",
+    "scss",
+    "css",
+    "sass",
+    "raw",
+    "vanilla",
+    "css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "Vanilla CSS"
+  },
+  "license": "ISC",
+  "author": "Tchetta",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
