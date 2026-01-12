@@ -1,7 +1,7 @@
 {
-  "name": "vanilla-css",
+  "name": "basic-vanilla-sass",
   "version": "1.0.0",
-  "description": "This is the initial structure of a vanilla CSS project using the 7-1 pattern with the BEM mothodology",
+  "description": "Vanilla project starter using SCSS 7-1 pattern and BEM",
   "keywords": [
     "vanilla",
     "scss",
@@ -13,13 +13,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "Vanilla CSS"
+    "url": "Basic Vanilla"
   },
   "license": "ISC",
   "author": "Tchetta",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-dev": "sass --watch scss/main.scss:dist/css/main.css",
+    "sass-build": "sass scss/main.scss:dist/css/main.css --style compressed"
+  },
+  "devDependencies": {
+    "sass": "^1.70.0"
   }
 }

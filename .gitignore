@@ -1,0 +1,6 @@
+# Compiled CSS
+dist/css/*.css.map
+
+# Dependencies
+node_modules/
+.DS_Store
